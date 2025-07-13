@@ -1,1 +1,19 @@
-*.class
+# Mac OS X files
+
+.DS_Store
+
+# Eclipse files
+
+/.classpath
+/.factorypath
+/.project
+/.settings/
+
+# IntelliJ IDEA files
+
+/.idea
+/*.iml
+
+# Generated files
+
+/target/
